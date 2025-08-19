@@ -1,4 +1,4 @@
 # DSA
-this folder is used to write the code 
+This folder is used to write the code 
 <br>
-AUTHOR-DEEPAK SINGH
+Author-Deepak Singh
